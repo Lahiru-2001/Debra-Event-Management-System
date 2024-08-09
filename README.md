@@ -14,7 +14,7 @@
 
 <h3>Technologies Used</h3>
 <ul>
-    <li><strong>Backend:</strong> PHP, MySQL</li>
+    <li><strong>Backend:</strong> C#, PHP, MySQL</li>
     <li><strong>Frontend:</strong> HTML, CSS, JavaScript</li>
     <li><strong>Architecture:</strong> Service-Oriented Architecture (SOA)</li>
 </ul>
