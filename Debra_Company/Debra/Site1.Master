@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Debra.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="Css/Navbarcss.css" rel="stylesheet" /> <!--css navigation-->
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+       <div>
+      <nav class="navbar navbar-expand-lg navbar-light">
+          <a class="navbar-brand" href="AdminLogin.aspx"> <!--Admin login/Partner login-->
+             
+              Debra  Event Management Company
+        </a>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="homepage.aspx">Home </a>
+      </li>
+     
+
+         <li class="nav-item">
+   <a class="nav-link" href="Aboutus.aspx">About Us</a>
+ </li>
+        </ul>
+           <!--onclick button for the actions-->
+          <ul class="navbar-nav">
+              <li class="nav-item-active">
+    <asp:LinkButton Class="nav-link" ID="LinkButton1" runat="server" OnClick="LinkButton1_Click" >User Login</asp:LinkButton>
+</li>
+                            <li class="nav-item-active">
+    <asp:LinkButton Class="nav-link" ID="LinkButton4" runat="server" OnClick="LinkButton4_Click" Visible="False" >Add New Event</asp:LinkButton>
+</li>
+             <li class="nav-item-active">
+    <asp:LinkButton Class="nav-link" ID="LinkButton6" runat="server" OnClick="LinkButton6_Click" Visible="False" >Buy Tickets</asp:LinkButton>
+</li>
+             <li class="nav-item-active">
+    <asp:LinkButton Class="nav-link" ID="LinkButton8" runat="server" OnClick="LinkButton8_Click" > Partner</asp:LinkButton>
+</li>
+
+   
+                           <li class="nav-item-active">
+    <asp:LinkButton Class="nav-link" ID="LinkButton10" runat="server" OnClick="LinkButton10_Click" Visible="False" > Event Details</asp:LinkButton>
+</li>
+
+                            <li class="nav-item-active">
+    <asp:LinkButton Class="nav-link" ID="LinkButton5" runat="server" OnClick="LinkButton5_Click" Visible="False" >Sells Details</asp:LinkButton>
+</li>
+              <li class="nav-item-active">
+    <asp:LinkButton Class="nav-link" ID="LinkButton2" runat="server" OnClick="LinkButton2_Click" >Sign Up</asp:LinkButton>
+</li>
+              <li class="nav-item-active">
+    <asp:LinkButton Class="nav-link" ID="LinkButton3" runat="server" OnClick="LinkButton3_Click" Visible="False" >Logout</asp:LinkButton>
+</li>
+              <li class="nav-item-active">
+    <asp:LinkButton Class="nav-link" ID="LinkButton7" runat="server" Visible="False" >Hello User:-</asp:LinkButton>
+</li>
+          </ul>
+
+    </div>
+
+      </nav>
+
+
+       </div>
+        <!--Main Content PlaceHolder -->
+         <div>
+     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+     </asp:ContentPlaceHolder>
+ </div>
+         <!--Main Content PlaceHolder -->
+
+    </form>
+</body>
+</html>

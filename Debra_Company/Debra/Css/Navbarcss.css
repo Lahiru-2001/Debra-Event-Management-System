@@ -1,0 +1,84 @@
+﻿/* Basic reset */
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar styles */
+.navbar {
+    background-color: #808080; /* Light background color */
+    border-bottom: 1px solid #84fa9c; /* Subtle border for separation */
+    padding: 10px 20px; /* Padding for spacing */
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    box-sizing: border-box;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center; /* Aligns brand items vertically */
+    font-size: 1.25rem;
+    font-weight: bold; /* Larger font size for branding */
+    color: #000; /* Dark text color */
+    text-decoration: none; /* Remove underline from link */
+}
+
+    .navbar-brand img {
+        margin-right: 25px; /* Space between image and text */
+    }
+
+.navbar-nav {
+    display: flex;
+    align-items: center; /* Aligns nav items vertically */
+    list-style: none; /* Remove bullet points */
+    margin: 0;
+    padding: 5px;
+}
+
+    .navbar-nav .nav-item {
+        margin-right: 15px; /* Space between nav items */
+    }
+
+    .navbar-nav .nav-link {
+        color: #000; /* Dark text color */
+        text-decoration: none;
+        font-weight: bold;
+        padding: 5px 10px; /* Padding for spacing */
+        border-radius: 3px; /* Rounded corners */
+        transition: background-color 0.3s; /* Smooth background transition */
+    }
+
+        .navbar-nav .nav-link:hover {
+            background-color: #84fa9c; /* Light grey background on hover */
+        }
+
+    .navbar-nav .nav-item.active .nav-link {
+        font-weight: bold; /* Bold font for active item */
+        color: #000000; /* Blue color for active link */
+    }
+
+.navbar-collapse {
+    display: flex;
+    justify-content: space-between; /* Space out brand and nav items */
+}
+
+@media (max-width: 768px) {
+    .navbar-collapse {
+        flex-direction: column; /* Stack items vertically on small screens */
+        align-items: center; /* Center items */
+    }
+
+    .navbar-nav {
+        flex-direction: column; /* Stack nav items vertically */
+        width: 100%; /* Full width for nav items */
+    }
+
+        .navbar-nav .nav-item {
+            margin: 5px 0; /* Vertical margin for spacing */
+        }
+}

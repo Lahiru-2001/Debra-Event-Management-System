@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Debra_Company\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|c:\\users\\user\\source\\repos\\debra_company\\debra\\eventmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|solutionrelative:debra\\eventmanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|c:\\users\\user\\source\\repos\\debra_company\\debra\\eventmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|solutionrelative:debra\\eventmanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|c:\\users\\user\\source\\repos\\debra_company\\debra\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|solutionrelative:debra\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|C:\\Users\\User\\source\\repos\\Debra_Company\\debra\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|solutionrelative:debra\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|c:\\users\\user\\source\\repos\\debra_company\\debra\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|solutionrelative:debra\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|C:\\Users\\User\\source\\repos\\Debra_Company\\debra\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|solutionrelative:debra\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|C:\\Users\\User\\source\\repos\\Debra_Company\\debra\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|solutionrelative:debra\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|C:\\Users\\User\\source\\repos\\Debra_Company\\debra\\usersignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|solutionrelative:debra\\usersignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|C:\\Users\\User\\source\\repos\\Debra_Company\\debra\\usersignup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|solutionrelative:debra\\usersignup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|C:\\Users\\User\\source\\repos\\Debra_Company\\debra\\userprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|solutionrelative:debra\\userprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|C:\\Users\\User\\source\\repos\\Debra_Company\\debra\\partnersignup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23E16152-6F6B-419F-97E7-F32B9677F8C8}|Debra\\Debra.csproj|solutionrelative:debra\\partnersignup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "homepage.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\homepage.aspx",
+              "RelativeDocumentMoniker": "Debra\\homepage.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\homepage.aspx",
+              "RelativeToolTip": "Debra\\homepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T04:07:59.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventManagement.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\EventManagement.aspx",
+              "RelativeDocumentMoniker": "Debra\\EventManagement.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\EventManagement.aspx",
+              "RelativeToolTip": "Debra\\EventManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-24T03:48:14.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventManagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\EventManagement.aspx.cs",
+              "RelativeDocumentMoniker": "Debra\\EventManagement.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\EventManagement.aspx.cs",
+              "RelativeToolTip": "Debra\\EventManagement.aspx.cs",
+              "ViewState": "AQIAAGMAAACAmJmZmZkwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T03:45:51.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "Debra\\AdminLogin.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\AdminLogin.aspx",
+              "RelativeToolTip": "Debra\\AdminLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T13:08:52.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserLogin.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\UserLogin.aspx",
+              "RelativeDocumentMoniker": "Debra\\UserLogin.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\UserLogin.aspx",
+              "RelativeToolTip": "Debra\\UserLogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T13:10:51.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PartnerSignup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\PartnerSignup.aspx.cs",
+              "RelativeDocumentMoniker": "Debra\\PartnerSignup.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\PartnerSignup.aspx.cs",
+              "RelativeToolTip": "Debra\\PartnerSignup.aspx.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwFsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T11:26:17.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminLogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\AdminLogin.aspx.cs",
+              "RelativeDocumentMoniker": "Debra\\AdminLogin.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\AdminLogin.aspx.cs",
+              "RelativeToolTip": "Debra\\AdminLogin.aspx.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAswDoAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:51:29.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserProfile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\UserProfile.aspx.cs",
+              "RelativeDocumentMoniker": "Debra\\UserProfile.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\UserProfile.aspx.cs",
+              "RelativeToolTip": "Debra\\UserProfile.aspx.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwCgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T14:17:32.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserSignup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\UserSignup.aspx.cs",
+              "RelativeDocumentMoniker": "Debra\\UserSignup.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\UserSignup.aspx.cs",
+              "RelativeToolTip": "Debra\\UserSignup.aspx.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T13:26:39.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserSignup.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\UserSignup.aspx",
+              "RelativeDocumentMoniker": "Debra\\UserSignup.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\UserSignup.aspx",
+              "RelativeToolTip": "Debra\\UserSignup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-28T15:41:01.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProfile.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\UserProfile.aspx",
+              "RelativeDocumentMoniker": "Debra\\UserProfile.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Debra_Company\\Debra\\UserProfile.aspx",
+              "RelativeToolTip": "Debra\\UserProfile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-29T08:21:06.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
