@@ -1,5 +1,4 @@
 <h1>Debra Event Management System</h1>
-<p>This repository contains the Debra Event Management System, developed as part of the Service-Oriented Computing module at the International College of Business & Technology.</p>
 
 <h2>Project Overview</h2>
 <p>The Debra Event Management System is designed to handle the operations of an event management company. The system allows admins, partners, and customers to manage and interact with events. It incorporates features for event creation, ticket sales, and reporting, with a focus on scalability and maintainability using a Service-Oriented Architecture (SOA).</p>
